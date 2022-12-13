@@ -1,4 +1,4 @@
-# Hello World, I'm Justine :wave:
+# Hello World, I'm Justine 👋
 
 I'm a French developer based near to Paris, learning to code since a couple years after a decade being a pastry chef :cake:
 
@@ -6,12 +6,12 @@ Available in 🇫🇷 : [Presentation](https://justine-gouaux.github.io/Presenta
 
 ## Projects
 
-### :school_satchel: O'clock courses
+### 🎒 O'clock courses
 
 I'm currently following a software arhitecture course with a block release training.
 During school periods I have daily and weekly challenges according to the [program](https://oclock.io/formations/alternance#programme). 📆
 
-### :computer: Work 
+### 💻 Work 
 
 Alongside, I work for [Carbone 4](https://www.carbone4.com/en), on their financial platform.
 
@@ -30,4 +30,4 @@ Now I have a bigger one: a collaborative platform for chefs involved in sustaina
 
 ## Contact
 
-You can reach me at :email: justine.gouaux93@gmail.com
+You can reach me at 📧 justine.gouaux93@gmail.com
