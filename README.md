@@ -24,9 +24,9 @@ Now I have a bigger one: a collaborative platform for chefs involved in sustaina
 ## Stack
 
 ### Client
-👀 JavaScript - Typescript - React - NodeJS - GraphQL - URQL
+👀 JavaScript - Typescript - React - GraphQL - URQL
 ### Server
-🤖 NextJS - PHP - Prisma - PostgreSQL - MySQL 
+🤖 PHP - NextJS - NodeJS - Prisma - PostgreSQL - MySQL 
 
 ## Contact
 
